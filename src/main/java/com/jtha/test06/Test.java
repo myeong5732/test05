@@ -1,5 +1,7 @@
 package com.jtha.test06;
 
 public class Test {
-	dddd
+	public static void main(String[] args) {
+		System.out.println();
+	}
 }
